@@ -56,7 +56,7 @@ the standard linear regression model can be stated as:
 The least ordinary squares (OLS) solutions are then:
 
 \deqn{\hat \beta  = {\left( {{X'}X} \right)^{ - 1}}{X'}y}{beta_hat = (X'X)^(-1) X' y}
-\deqn{\operatorname{cov} \left( {\hat \beta } \right) = {\sigma ^2}{\left( {{X^T}X} \right)^{ - 1}}}{cov(beta_hat) = sigma^2 * (X' X)^(-1)}
+\deqn{cov\left( {\hat \beta } \right) = {\sigma ^2}{\left( {{X^T}X} \right)^{ - 1}}}{cov(beta_hat) = sigma^2 * (X' X)^(-1)}
 }
 \examples{
 ## Matrix interface
