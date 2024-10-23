@@ -7,10 +7,11 @@ Authors@R: c(
     )
 Description: Provides an implementation of linear regression using
     the S3 object system.
-BugReports: https://github.com/r-pkg-examples/s3-lm
+BugReports: https://github.com/coatless-r-n-d/s3-lm
 Depends: R (>= 3.5.0)
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
 Roxygen: list(markdown = TRUE)
+URL: https://rd.thecoatlessprofessor.com/r-s3-lm/
