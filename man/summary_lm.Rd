@@ -22,9 +22,9 @@ An object of class \code{summary.my_lm} that contains:
 \item \code{est_mat}: A \code{matrix} with the following \strong{named} columns...
 \itemize{
 \item \code{Estimate}: The parameter (beta) estimated values
-\item \code{Std. Err}: The standard error values for the parameter estimates.
-\item \code{t value}: The t-test value for the parameter estimate.
-\item \code{Pr(>|t|)}: The p-value for the t-test value on the parameter.
+\item \verb{Std. Err}: The standard error values for the parameter estimates.
+\item \verb{t value}: The t-test value for the parameter estimate.
+\item \verb{Pr(>|t|)}: The p-value for the t-test value on the parameter.
 }
 \item \code{call}: Information on how the \code{\link[=my_lm]{my_lm()}} function was called.
 }
